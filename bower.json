@@ -1,0 +1,19 @@
+{
+  "name": "gulp-boilerplate",
+  "version": "0.1.0",
+  "homepage": "https://github.com/wearegrove/gulp-boilerplate",
+  "authors": [
+    "wearegrove <chris@wearegrove.co.uk>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+  }
+}
